@@ -1,1 +1,61 @@
-# direct-saint
+# Saint Laurent 리뉴얼
+
+_Fashions fade, style is eternal._
+
+## 🖥 프로젝트 소개
+
+팀 프로젝트로 기존 생로랑 페이지보다 조금 더 가독성이 좋고 리뉴얼을했고 컨텐츠가 더잘보이는 방향으로 레이아웃을 잡아서 리뉴얼했습니다.
+
+## 🗓 개발 기간
+
+Mobile : 2023.07.01 ~ 2023.07.31
+
+PC :2023.10.09 ~ 2023.10.27
+
+## 👨‍👩‍👧‍👧 참여인원 & 역할
+
+### Mobile
+
+- 김태현 : main, introduce, footer
+- 박진희 : item-view, cart
+- 최은지 : goods-women, goods-men, header
+- 최하린 : collection, collection-woman, payment
+
+### PC
+
+- 김태현 : main, introduce, footer
+- 박진희 : item-view, cart, header
+- 최은지 : goods-women, goods-men
+- 최하린 : collection, collection-woman, payment
+
+## 🛠 사용 기술
+
+`Visual Studio Code` `SCSS(CSS)` `JavaScript(JQuery)`
+
+`Swiper.js` `ScrollTrigger` `Mobile Detect`
+
+## 🧭 Web Site
+
+<!-- 본인 cafe 24 주소로 넣으세요... 제발 잊지 말고... -->
+
+- Mobile
+
+  - https://iammes.cafe24.com/saintlaurent/mobile/index.html
+
+- PC
+  - https://iammes.cafe24.com/saintlaurent/pc/index.html
+
+## 📁 Github Repository
+
+<!-- 이 부분은 본인 계정의 리포지토리로 변경해주세요! -->
+
+- Mobile
+  - https://github.com/xxini98/saint-laurent-main
+  - https://github.com/xxini98/Saint_main
+    > FORK가 풀리는 이슈로 인하여 부득이하게 2개의 리포지토리 생성
+
+
+- PC
+  - https://github.com/xxini98/P_saint-laurent
+
+---
